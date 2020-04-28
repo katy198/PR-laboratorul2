@@ -1,4 +1,4 @@
-﻿namespace LAB_2_IDWEB
+﻿namespace Laboratorul_2
 {
     partial class LogIn
     {

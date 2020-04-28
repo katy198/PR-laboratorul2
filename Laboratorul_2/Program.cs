@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace LAB_2_IDWEB
+namespace Laboratorul_2
 {
     static class Program
     {

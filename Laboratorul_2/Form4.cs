@@ -14,7 +14,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace LAB_2_IDWEB
+namespace Laboratorul_2
 {
     public partial class Form4 : Form
     {
